@@ -1,2 +1,2 @@
 # DelegateAndEvent
-DelegateAndEvent搞清委托与事件的区别
+DelegateAndEvent搞清委托与事件的区别。仅供学习交流...
